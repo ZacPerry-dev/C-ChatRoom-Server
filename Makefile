@@ -1,7 +1,7 @@
 PROG = chat_server
 
 LIBFDR = /home/cosc360/libfdr
-GS_DIR = /home/cosc360/lab9/gs
+GS_DIR = /home/cosc360/laba/gs
 
 CC = gcc
 INCLUDES = -I$(LIBFDR)/include/
